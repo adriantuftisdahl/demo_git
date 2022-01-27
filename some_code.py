@@ -15,3 +15,7 @@ def important_method():
 
 def another_important_method():
     return
+
+
+def not_very_important_method():
+    return
